@@ -1,0 +1,11 @@
+{
+  "name": "adminku",
+  "version": "1.0.0",
+  "description": "Example Telegram bot on zeit now",
+  "main": "adminku.js",
+  "scripts": {
+    "start": "node adminku.js"
+  },
+  "author": "JLLDev",
+  "license": "ISC"
+}
